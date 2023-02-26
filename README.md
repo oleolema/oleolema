@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Java, React, Kotlin, Rust**
+- 💬 Ask me about **Java, Kotlin, JavaScript, React, Rust**
 
 - 📫 How to reach me **oleolema@qq.com**
 
